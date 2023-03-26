@@ -1,0 +1,40 @@
+{
+  "name": "br-validation",
+  "version": "1.0.0",
+  "description": "Funções úteis para validação e formatação de dados brasileiros",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/costapedrohenrique/br-validation.git"
+  },
+  "keywords": [
+    "brasil",
+    "validação",
+    "formatação",
+    "cpf",
+    "cnpj",
+    "cep",
+    "telefone",
+    "celular",
+    "validar",
+    "formatar",
+    "br",
+    "brazil",
+    "br-validation",
+    "brvalidation",
+    "br validation",
+    "br validation",
+    "brValidation",
+    "brValidation"
+  ],
+  "author": "DevPedroHenrique",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.0.2"
+  }
+}
