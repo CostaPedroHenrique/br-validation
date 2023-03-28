@@ -1,2 +1,5 @@
 export { default as cpfFormatter } from './cpfFormatter'
 export { default as cnpjFormatter } from './cnpjFormatter'
+export { default as cepFormatter } from './cepFormatter'
+export { default as documentFormatter } from './documentFormatter'
+export { default as phoneFormatter } from './phoneFormatter'
